@@ -1154,6 +1154,20 @@ Supplemental:
     - answers in C, C++ and Java
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
+- [ ] [Uber Interview Questions]
+  - [ ] [Longest Increasing Subarray](http://blog.gainlo.co/index.php/2017/02/02/uber-interview-questions-longest-increasing-subarray/)
+  - [ ] [Arrange Given Numbers To Form The Biggest Number Possible](http://blog.gainlo.co/index.php/2017/01/20/arrange-given-numbers-to-form-the-biggest-number-possible/)
+  - [ ] [Search an Element in a Sorted and Rotated Array](http://blog.gainlo.co/index.php/2017/01/12/rotated-array-binary-search/)
+  - [ ] [Permutations of an Array of Arrays](http://blog.gainlo.co/index.php/2017/01/05/uber-interview-questions-permutations-array-arrays/)
+  - [ ] [Permutations of Parentheses](http://blog.gainlo.co/index.php/2016/12/23/uber-interview-questions-permutations-parentheses/)
+  - [ ] [Maximum Sum of Non-adjacent Elements](http://blog.gainlo.co/index.php/2016/12/02/uber-interview-question-maximum-sum-non-adjacent-elements/)
+  - [ ] [Move Zeroes](http://blog.gainlo.co/index.php/2016/11/18/uber-interview-question-move-zeroes/)
+  - [ ] [Weighted Random Numbers](http://blog.gainlo.co/index.php/2016/11/11/uber-interview-question-weighted-random-numbers/)
+  - [ ] [Delimiter Matching](http://blog.gainlo.co/index.php/2016/09/30/uber-interview-question-delimiter-matching/)
+  - [ ] [Map Implementation](http://blog.gainlo.co/index.php/2016/08/14/uber-interview-question-map-implementation/)
+  - [ ] [Duplicate Elements of An Array](http://blog.gainlo.co/index.php/2016/05/10/duplicate-elements-of-an-array/)
+  - [ ] [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
+  - [ ] [Deepest Node In a Tree](http://blog.gainlo.co/index.php/2016/04/26/deepest-node-in-a-tree/)
 
 See [Book List above](#book-list)
 
