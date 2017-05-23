@@ -237,7 +237,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - Half.com is a great resource for textbooks at good prices.
     - aka CLR, sometimes CLRS, because Stein was late to the game
 
-- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [x] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
     - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
       that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
 
